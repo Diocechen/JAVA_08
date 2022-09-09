@@ -1,6 +1,6 @@
 package Java08;
 
-class DBox{
+class CBox{
 	int length;
 	int width;
 	int height;
@@ -26,7 +26,7 @@ class DBox{
 public class Class05 {
 
 	public static void main(String[] args) {
-		DBox box = new DBox();
+		CBox box = new CBox();
 		box.height = 1;
 		box.width = 1;
 		box.length = 1;
